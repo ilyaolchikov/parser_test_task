@@ -1,0 +1,7 @@
+typer
+sqlalchemy
+sqlalchemy-utils
+python-dotenv
+psycopg2-binary
+pandas
+openpyxl
